@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jan\source\repos\passgen\passgen\source.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jan\source\repos\passgen\passgen\source.cpp(81): warning C4129: ']': unrecognized character escape sequence
+  passgen.vcxproj -> C:\Users\Jan\source\repos\passgen\Debug\passgen.exe
